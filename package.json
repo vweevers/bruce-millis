@@ -1,6 +1,6 @@
 {
   "name": "bruce-millis",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert various time formats to milliseconds",
   "license": "MIT",
   "author": "Vincent Weevers",
