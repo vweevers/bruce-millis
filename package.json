@@ -1,0 +1,32 @@
+{
+  "name": "bruce-millis",
+  "version": "0.0.0",
+  "description": "Convert various time formats to milliseconds",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && nyc node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "hallmark": "^2.1.0",
+    "nyc": "^15.1.0",
+    "standard": "^14.3.4",
+    "tape": "^5.0.1"
+  },
+  "keywords": [
+    "milliseconds",
+    "ms",
+    "parse",
+    "time"
+  ],
+  "repository": "vweevers/bruce-millis",
+  "bugs": "https://github.com/vweevers/bruce-millis/issues",
+  "homepage": "https://github.com/vweevers/bruce-millis",
+  "engines": {
+    "node": ">=8"
+  }
+}
